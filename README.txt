@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/ArnaudBalland/pen/LRYxYO.
-
- 
+Well done for finding the readme! now that you have read it, go back to my site!
